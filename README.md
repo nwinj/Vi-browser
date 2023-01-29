@@ -2,6 +2,8 @@
 
 A new, fast, and privacy-focused browser designed and built in India. Our goal is to provide a safe and secure browsing experience for the people of India. With a modern UI, users can enjoy browsing the web without the fear of their data being collected or monitored.
 
+### Note: We are currently under development and expect your contributions to make this browser even better!
+
 # Contributing
 
 We are looking for contributors to help build and improve this browser. If you are passionate about privacy and open-source software, then this is the perfect opportunity for you.
